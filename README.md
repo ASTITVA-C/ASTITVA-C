@@ -1,0 +1,1 @@
+ So I am a kid trying to learn html , css and javascript and if you find any better way in which the code can be more better please tell me it would be really apreciable and thank you for seeing my repos . By the way i am 14 
